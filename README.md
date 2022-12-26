@@ -15,3 +15,8 @@ The important things I used to create Tuby are (ReactJS v18.2.0, TypeScript 4.9,
 To install Tuby to your computer it's easy you can clone it and just type `npm i` to your terminal
 Do what you need to add to it or update it or anything you need and update it again
 It's so welcomed to work with me to add new features to it
+
+#### - What I'm working on now?
+
+- Enable search everywhere
+- Enable filtering based on rating
