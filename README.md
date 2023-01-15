@@ -1,6 +1,6 @@
 # __Nearby Project__
 
-###### ![Tuby home page](https://i.ibb.co/JxbhgDq/1.webp)
+###### ![Tuby home page](https://i.ibb.co/GJLR0Ws/1.webp)
 
 ###### [Watch it here live](https://devmaheremad.github.io/nearby/)
 
